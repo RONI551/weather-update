@@ -1,6 +1,6 @@
 # React + Vite
 
-live websit link available in netlify linke here https://helpful-bienenstitch-89a113.netlify.app/
+live websit link available in netlify link  here https://helpful-bienenstitch-89a113.netlify.app/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
